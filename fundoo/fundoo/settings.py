@@ -106,7 +106,7 @@ DATABASES = {
         'NAME': 'sqldb',
         'USER': 'admin',
         'PASSWORD': 'khan1997',
-        'HOST': 'new-chatapp.cduqrst1ipwq.ap-south-1.rds.amazonaws.com',
+        'HOST': 'database',
         'PORT': '3306',
     }
 }
