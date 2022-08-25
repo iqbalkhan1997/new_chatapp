@@ -103,10 +103,10 @@ CHANNEL_LAYERS = {
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'ansible',
+        'NAME': 'sqldb',
         'USER': 'admin',
         'PASSWORD': 'khan1997',
-        'HOST': 'ansible-rds.cduqrst1ipwq.ap-south-1.rds.amazonaws.com',
+        'HOST': 'new-chatapp.cduqrst1ipwq.ap-south-1.rds.amazonaws.com',
         'PORT': '3306',
     }
 }
